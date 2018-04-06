@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LukeAnderson.github.io" resolutions="1x" timestamp="1523025785043">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LukeAnderson.github.io" resolutions="1x" timestamp="1523028998938">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="4238953598" ref="index"/>
-    <file name="iefonts_index.css" crc="75306176" ref="index"/>
+    <file name="index.css" crc="3942244198" ref="index"/>
+    <file name="iefonts_index.css" crc="4112463500" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -167,7 +167,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3104-11.png" crc="344867065" ref="index"/>
-    <file name="u7115-18.png" crc="30925870" ref="index"/>
+    <file name="u7115-18.png" crc="527541738" ref="index"/>
     <file name="cosmic jam battle-crop-u7022.jpg" crc="401396794" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -193,5 +193,5 @@
     </folder>
     <file name="index.html" crc="294552716" seo="true" mt="1523018976079" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3932674822" seo="true" mt="1523025285462" redirect="true"/>
+  <file name="index.html" crc="510161487" seo="true" mt="1523028968076" redirect="true"/>
 </manifest>
