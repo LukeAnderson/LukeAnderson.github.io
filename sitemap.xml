@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://LukeAnderson.github.io/index.html</loc>
+    <lastmod>2018-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://LukeAnderson.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://LukeAnderson.github.io/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/code2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/oop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/windows_logos_png35.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/2000px-tuxsvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/visual_studio_2013_logosvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/unity-logo-988a22e703-seeklogocom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/netbeans-logo-21.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/vimlogosvg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/muvectorlogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/lifeguardvector.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/cosmic%20jam%20battle-crop-u7022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://LukeAnderson.github.io/images/chemapppic.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
